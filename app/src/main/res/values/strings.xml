@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="first_button_to_push">На другой экран</string>
+    <string name="text_view">Чтобы посмотреть фото, нажмите кнопку ниже</string>
+</resources>
